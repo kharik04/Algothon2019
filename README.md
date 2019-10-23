@@ -1,4 +1,5 @@
 # Algothon2019
+The Naive Learners Gang
 Khariton, Alex, Kevin and James
 Files:
 - Algothon_2019_presentation.pdf (presentation slides)
